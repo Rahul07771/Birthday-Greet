@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday greet</string>
+    <string name="enter_message">Enter the name for the card</string>
+    <string name="hint_message">eg: Donald </string>
+    <string name="button_message">Create Card</string>
+    <string name="it_is_disco_time">It is disco time !!</string>
+    <string name="textview">TextView</string>
+</resources>
